@@ -4,7 +4,6 @@ const Footer = () => {
   return (
     <div>
       <h3>Footer &copy;</h3>
-      <h3>Footer &copy;</h3>
     </div>
   );
 };
